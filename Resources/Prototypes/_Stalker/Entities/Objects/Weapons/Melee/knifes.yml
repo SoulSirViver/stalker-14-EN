@@ -29,6 +29,7 @@
   - type: DisarmMalus
     malus: 0.225
   - type: Engraveable # en
+  - type: Craftable
 
 - type: entity
   name: Финка ЛГБТ
