@@ -4,7 +4,7 @@ meta:
   engineVersion: 268.0.0
   forkId: ""
   forkVersion: ""
-  time: 05/12/2026 19:44:07
+  time: 05/19/2026 20:44:44
   entityCount: 20008
 maps:
 - 1
@@ -31796,7 +31796,7 @@ entities:
       pos: 163.5,-3.5
       parent: 1
     - type: Door
-      secondsUntilStateChange: -1128.6267
+      secondsUntilStateChange: -1328.1387
       state: Opening
   - uid: 20005
     components:
@@ -32213,13 +32213,6 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 69.5,28.5
-      parent: 1
-- proto: ChairWoodStalker
-  entities:
-  - uid: 13753
-    components:
-    - type: Transform
-      pos: 174.5,20.5
       parent: 1
 - proto: Cigarette
   entities:
@@ -33519,12 +33512,6 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 129.5,-94.5
-      parent: 1
-  - uid: 17925
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 71.5,30.5
       parent: 1
   - uid: 18901
     components:
@@ -68512,6 +68499,11 @@ entities:
       accessListsOriginal:
       - - Freedom
       - - FreedomNovice
+  - uid: 18432
+    components:
+    - type: Transform
+      pos: 70.5,34.5
+      parent: 1
   - uid: 19519
     components:
     - type: Transform
@@ -72726,12 +72718,6 @@ entities:
     - type: Transform
       pos: 78.5,41.5
       parent: 1
-  - uid: 15921
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 69.5,32.5
-      parent: 1
   - uid: 16338
     components:
     - type: Transform
@@ -72847,17 +72833,6 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 3.5,79.5
-      parent: 1
-  - uid: 18431
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 74.5,28.5
-      parent: 1
-  - uid: 19939
-    components:
-    - type: Transform
-      pos: 74.5,33.5
       parent: 1
 - proto: Puh1
   entities:
@@ -76307,6 +76282,12 @@ entities:
       rot: -1.5707963267948966 rad
       pos: 92.5,27.5
       parent: 1
+  - uid: 15921
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 69.5,28.5
+      parent: 1
   - uid: 15958
     components:
     - type: Transform
@@ -76366,6 +76347,12 @@ entities:
       rot: 3.141592653589793 rad
       pos: 153.5,19.5
       parent: 1
+  - uid: 17925
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 69.5,31.5
+      parent: 1
   - uid: 18377
     components:
     - type: Transform
@@ -76377,17 +76364,23 @@ entities:
     - type: Transform
       pos: 93.5,54.5
       parent: 1
+  - uid: 18411
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 74.5,28.5
+      parent: 1
   - uid: 18423
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 163.5,14.5
       parent: 1
-  - uid: 18432
+  - uid: 18431
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 69.5,28.5
+      rot: -1.5707963267948966 rad
+      pos: 74.5,31.5
       parent: 1
   - uid: 18521
     components:
@@ -76645,6 +76638,11 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 107.5,38.5
+      parent: 1
+  - uid: 19939
+    components:
+    - type: Transform
+      pos: 72.5,33.5
       parent: 1
   - uid: 19997
     components:
@@ -93016,6 +93014,11 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 172.5,16.5
+      parent: 1
+  - uid: 13753
+    components:
+    - type: Transform
+      pos: 174.5,20.5
       parent: 1
   - uid: 13769
     components:
@@ -132287,11 +132290,6 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 60.5,84.5
-      parent: 1
-  - uid: 18411
-    components:
-    - type: Transform
-      pos: 70.5,34.5
       parent: 1
   - uid: 18424
     components:
