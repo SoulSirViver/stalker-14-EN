@@ -3037,5 +3037,12 @@
   id: 335
   time: '2026-05-19T21:15:00.511623+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/926
+- author: cris5311
+  changes:
+  - message: Benelli M4 is closer to its true glory
+    type: Tweak
+  id: 336
+  time: '2026-05-19T22:12:09.510798+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/922
 Name: Stalker
 Order: -1
