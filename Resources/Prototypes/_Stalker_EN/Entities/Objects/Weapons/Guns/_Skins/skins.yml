@@ -153,3 +153,36 @@
   - type: Sprite
     sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Pahanka.rsi
 
+- type: entity
+  parent: STBaseWeaponRifleOC14
+  id: STWeaponRifleOC14Winter
+  name: OC-14 «Groza» (Winter)
+  description: An assault rifle-grenade launcher system, 70% unified with AK-type assault rifles, the OC-14 "Groza" wrapped in Modern camo often found used by Monolith.
+  suffix: ST
+  components:
+  - type: Item
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterised_Groza.rsi
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterised_Groza.rsi
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterised_Groza.rsi
+
+- type: entity
+  parent: STBaseWeaponRifleOC14
+  id: STWeaponRifleOC14WinterMono
+  name: OC-14 «Groza» (Winter)
+  description: An assault rifle-grenade launcher system, 70% unified with AK-type assault rifles, the OC-14 "Groza" wrapped in Modern camo often found used by Monolith.
+  suffix: ST
+  components:
+  - type: Item
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterised_Groza.rsi
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterised_Groza.rsi
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterised_Groza.rsi
+  suffix: ST
+  components:
+  - type: PersonalDamage
+    damage:
+      types:
+        Radiation: 6.65
