@@ -3075,5 +3075,12 @@
   id: 340
   time: '2026-05-25T09:40:12.174016+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/901
+- author: TheCookieChicken
+  changes:
+  - message: Added the Clear Sky backpack, variant of the army backpack
+    type: Add
+  id: 341
+  time: '2026-05-25T20:16:33.018769+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/946
 Name: Stalker
 Order: -1
