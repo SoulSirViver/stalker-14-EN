@@ -3082,5 +3082,12 @@
   id: 341
   time: '2026-05-25T20:16:33.018769+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/946
+- author: Wintoli
+  changes:
+  - message: Gun Cases can go on your back and some of them have been expanded slightly.
+    type: Tweak
+  id: 342
+  time: '2026-05-25T20:22:26.791482+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/944
 Name: Stalker
 Order: -1
