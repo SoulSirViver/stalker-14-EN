@@ -39,3 +39,68 @@
   - type: Storage #40
     grid:
     - 0,0,4,7
+
+- type: entity
+  parent: STClothingBackBase
+  id: ClothingBackpackDuffelDuty
+  name: Duty Backpack
+  description: Usually used in hiking, this backpack is reffited for Duty members.
+  suffix: ST
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/backpacks/army_backpack_duty.rsi
+  - type: Storage #40
+    grid:
+    - 0,0,4,7
+
+- type: entity
+  parent: STClothingBackBase
+  id: ClothingBackpackDuffelFreedom
+  name: Freedom Backpack
+  description: Usually used in hiking, this backpack is reffited for Freedom members.
+  suffix: ST
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/backpacks/army_backpack_freedom.rsi
+  - type: Storage #40
+    grid:
+    - 0,0,4,7
+
+- type: entity
+  parent: STClothingBackBase
+  id: ClothingBackpackDuffelRenegade
+  name: Renegade Backpack
+  description: Usually used in hiking, this backpack is reffited for Renegade members.
+  suffix: ST
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/backpacks/army_backpack_renegade.rsi
+  - type: Storage #40
+    grid:
+    - 0,0,4,7
+
+- type: entity
+  parent: STClothingBackBase
+  id: ClothingBackpackDuffelBandits
+  name: Bandits Backpack
+  description: Usually used in hiking, this backpack is reffited for Bandits members.
+  suffix: ST
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/backpacks/army_backpack_bandits.rsi
+  - type: Storage #40
+    grid:
+    - 0,0,4,7
+
+- type: entity
+  parent: STClothingBackBase
+  id: ClothingBackpackDuffelNeutral
+  name: Neutrals Backpack
+  description: Usually used in hiking, this backpack is reffited for Neutrals members.
+  suffix: ST
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/backpacks/army_backpack_neutral.rsi
+  - type: Storage #40
+    grid:
+    - 0,0,4,7
