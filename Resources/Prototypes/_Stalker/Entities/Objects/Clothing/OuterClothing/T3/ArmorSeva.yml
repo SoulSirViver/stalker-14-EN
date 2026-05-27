@@ -39,7 +39,7 @@
         Shock: 0.60
         Compression: 0.7
   - type: GrantsArtifactSlots
-    slots: 4
+    slots: 4 # EN
   - type: ContainerContainer
     containers:
       toggleable-clothing: !type:ContainerSlot {}
