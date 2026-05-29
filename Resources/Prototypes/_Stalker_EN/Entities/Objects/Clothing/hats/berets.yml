@@ -48,6 +48,18 @@
 
 - type: entity
   parent: ClothingHeadBeretBase
+  id: ClothingHeadBeretUN
+  name: берет ООН #this is changed via localization
+  description: Берет основного контингента ООН и старшего офицерского состава ОКСОП.
+  suffix: ST, UN # EN
+  components:
+  - type: Sprite
+    sprite: _Stalker/Objects/Clothing/hats/un_beret.rsi
+  - type: Clothing
+    sprite: _Stalker/Objects/Clothing/hats/un_beret.rsi
+
+- type: entity
+  parent: ClothingHeadBeretBase
   id: ClothingHeadBeretNeutral
   name: Neutral beret
   description: A yellow beret worn by Neutrals.
