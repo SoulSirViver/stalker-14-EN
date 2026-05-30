@@ -3119,5 +3119,12 @@
   id: 346
   time: '2026-05-30T19:55:23.204852+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/953
+- author: Cassandra
+  changes:
+  - message: White GP-5 variant
+    type: Add
+  id: 347
+  time: '2026-05-30T19:57:48.772373+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/921
 Name: Stalker
 Order: -1
