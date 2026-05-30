@@ -3110,5 +3110,14 @@
   id: 345
   time: '2026-05-27T18:11:50.293233+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/950
+- author: KittyCat432
+  changes:
+  - message: Duty beret now works like the rest of the berets.
+    type: Fix
+  - message: UN beret now works like the rest of the berets.
+    type: Fix
+  id: 346
+  time: '2026-05-30T19:55:23.204852+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/953
 Name: Stalker
 Order: -1
