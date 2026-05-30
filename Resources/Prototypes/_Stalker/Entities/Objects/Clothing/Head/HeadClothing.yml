@@ -26,7 +26,7 @@
     sprite: _Stalker/Objects/Clothing/hats/militarycap.rsi
 
 - type: entity
-  parent: STClothingHeadBase
+  parent: ClothingHeadBeretBase
   id: ClothingHeadBeretUN
   name: берет ООН
   description: Берет основного контингента ООН и старшего офицерского состава ОКСОП.
@@ -221,7 +221,7 @@
     sprite: _Stalker/Objects/Clothing/hats/merc_cap.rsi
 
 - type: entity
-  parent: STClothingHeadBase
+  parent: ClothingHeadBeretBase
   id: STClothingHeadBeretDolg
   name: Duty's beret
   description: This is the Red Beret of the officers of the Duty.
