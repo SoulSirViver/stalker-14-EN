@@ -18,3 +18,16 @@
         Piercing: 25 # Not Final, Will be adjusted for the zone
   - type: Construction
     graph: STSpearWoodgraph
+  - type: Destructible
+  thresholds:
+  - trigger:
+      !type:DamageTrigger
+      damage: 20
+    behaviors:
+    - !type:DoActsBehavior
+      acts: [ "Destruction" ]
+    - !type:SpawnEntitiesBehavior
+  spawn:
+    PartRodMetal1:
+      min: 0
+      max: 0
