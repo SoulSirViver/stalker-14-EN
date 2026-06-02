@@ -111,11 +111,11 @@
   suffix: ST
   components:
   - type: Item
-    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/winterized_Groza.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
   - type: Sprite
-    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/winterized_Groza.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
   - type: Clothing
-    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/winterized_Groza.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
 
 - type: entity
   parent: STBaseWeaponRifleOC14
@@ -125,11 +125,11 @@
   suffix: ST
   components:
   - type: Item
-    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/winterized_Groza.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
   - type: Sprite
-    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/winterized_Groza.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
   - type: Clothing
-    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/winterized_Groza.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
   suffix: ST
   components:
   - type: PersonalDamage
@@ -146,11 +146,11 @@
   description:  weapon of elite Soviet troops. Designed to replace the outdated AKS. In the Abakan, not only the internal mechanisms are movable, but the entire receiver and barrel, which helps reduce recoil and significantly increase accuracy in combat. It is wrapped in Winter camo often found used by Monolith. A small strip on the end denotes that this has been chemically cleaned.
   components:
   - type: Clothing
-    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_abakan.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
   - type: Item
-    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_abakan.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
   - type: Sprite
-    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_abakan.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
 
 
 - type: entity
@@ -161,11 +161,11 @@
   description:  weapon of elite Soviet troops. Designed to replace the outdated AKS. In the Abakan, not only the internal mechanisms are movable, but the entire receiver and barrel, which helps reduce recoil and significantly increase accuracy in combat. It is wrapped in Winter camo often found used by Monolith.
   components:
   - type: Clothing
-    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_abakan.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
   - type: Item
-    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_abakan.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
   - type: Sprite
-    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_abakan.rsi
+    sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
   components:
   - type: PersonalDamage
     damage:
