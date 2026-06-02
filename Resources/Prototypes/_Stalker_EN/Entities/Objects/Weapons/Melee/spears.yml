@@ -16,7 +16,7 @@
     damage:
       types:
         Piercing: 30 # Not Final, Will be adjusted for the zone
-  - type: BonusDamageOnGroup
+  - type: FactionBonusDamage
     group: Mutated
     damage:
       types:
