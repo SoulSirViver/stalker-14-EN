@@ -19,6 +19,9 @@
         Piercing: 30 # Not Final, Will be adjusted for the zone
         Mutant : 25
   - type: SlowOnDamage
+    speedModifierThresholds:
+    30: 0.9
+    60: 0.5
   - type: Destructible
     thresholds:
     - trigger:
