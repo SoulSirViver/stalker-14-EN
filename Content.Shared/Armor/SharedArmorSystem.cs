@@ -127,15 +127,26 @@ public abstract partial class SharedArmorSystem : EntitySystem
             var modifiedModifiers = new DamageModifierSet
             {
                 Coefficients = new Dictionary<string, float>(component.Modifiers.Coefficients),
-                FlatReduction = component.Modifiers.FlatReduction,
+                FlatReduction = new Dictionary<string, float>(component.Modifiers.FlatReduction),
             };
 
-            // Each tier stronger the armor is to the projectile makes it 40% more effective
+            // Each tier stronger the armor is to the projectile adds 50% of its own protection on top
             foreach (var key in modifiedModifiers.Coefficients.Keys.ToList())
+            {
+                var addedCoefficient =
+                    modifiedModifiers.Coefficients[key] + (1 - modifiedModifiers.Coefficients[key]) / 2;
+                for (var i = 0; i < diff; i++)
+                {
+                    modifiedModifiers.Coefficients[key] *= addedCoefficient;
+                }
+            }
+
+            // 1 flat per too
+            foreach (var key in modifiedModifiers.FlatReduction.Keys.ToList())
             {
                 for (var i = 0; i < diff; i++)
                 {
-                    modifiedModifiers.Coefficients[key] *= 0.6f;
+                    modifiedModifiers.FlatReduction[key] += 1;
                 }
             }
 
