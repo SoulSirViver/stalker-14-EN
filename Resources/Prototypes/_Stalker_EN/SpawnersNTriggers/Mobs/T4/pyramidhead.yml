@@ -23,9 +23,9 @@
     - STMobMutantPyramidHead
 
 - type: entity
-  name: pyramidhead (1) (100%)
-  id: STTriggerPyramidHead11100
-  parent: STBaseTrigger11100
+  name: pyramidhead (1) (100%) 30м
+  id: STTriggerPyramidHead110030
+  parent: STBaseTrigger1110030
   suffix: ST, T4, Trigger
   components:
   - type: SpawnOnApproach
