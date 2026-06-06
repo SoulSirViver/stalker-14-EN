@@ -24,8 +24,8 @@
 
 - type: entity
   name: pyramidhead (1) (100%)
-  id: STTriggerPyramidHead1100
-  parent: STBaseTrigger1100
+  id: STTriggerPyramidHead11100
+  parent: STBaseTrigger11100
   suffix: ST, T4, Trigger
   components:
   - type: SpawnOnApproach
