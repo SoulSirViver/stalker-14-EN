@@ -130,8 +130,6 @@
     sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
   - type: Clothing
     sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/Winterized_Groza.rsi
-  suffix: ST
-  components:
   - type: PersonalDamage
     damage:
       types:
@@ -166,7 +164,6 @@
     sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
   - type: Sprite
     sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/winterized_Abakan.rsi
-  components:
   - type: PersonalDamage
     damage:
       types:
