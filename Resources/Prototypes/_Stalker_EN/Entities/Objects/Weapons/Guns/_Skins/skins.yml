@@ -103,7 +103,7 @@
     sprite: _Stalker_EN/Objects/Weapons/Guns/Rifles/_Skins/ak12_dolg.rsi
 
 # OC-14
-  - type: entity
+- type: entity
   parent: STBaseWeaponRifleOC14
   id: STWeaponRifleOC14Winter
   name: OC-14 «Groza» (Winter)
