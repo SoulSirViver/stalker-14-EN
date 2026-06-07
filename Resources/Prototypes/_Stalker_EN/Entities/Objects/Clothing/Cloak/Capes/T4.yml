@@ -1,6 +1,6 @@
 - type: entity
   parent: STClothingCapeArmorChainmailSeva
-  id: Neutralcloakchainmailseva
+  id: ClothingCapeArmorChainmailSevaNeutral
   name: Neutral chainmail cloak
   suffix: ST, T4
   description: "A thick chain cloak, adorned with the Neutrals' signature colour"
