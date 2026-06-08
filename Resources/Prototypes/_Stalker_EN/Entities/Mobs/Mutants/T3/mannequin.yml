@@ -82,12 +82,12 @@
     needsHands: false
   - type: HTN
     rootTask:
-      task: STSimpleHostileCompound
+      task: STAmbushHostileCompound # stand still until a player comes within VisionRadius (or it's damaged), then hunt like a normal mutant
     blackboard:
       VisionRadius: !type:Single
-        20
+        3 # proximity trigger: won't notice players past 3 tiles
       AggroVisionRadius: !type:Single
-        3
+        20 # once provoked, keeps hunting out to 20 tiles before re-freezing
   - type: MeleeThrowOnHit # Could add some oomph to it, less than bears
     speed: 3
     distance: 0.5
