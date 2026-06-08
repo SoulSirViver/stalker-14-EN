@@ -50,7 +50,7 @@
           path: /Audio/_Stalker_EN/Mutants/lyingfigure_death.ogg
   - type: Butcherable
     spawned:
-    - id: STFoodMeatSalo #Or some other kind of meat? or a new part, and parent it so it's easy to implement
+    - id: STCraftHideT2 # I'd like to make an actual unique part in the future
       amount: 1
   - type: STWeight
     self: 65
