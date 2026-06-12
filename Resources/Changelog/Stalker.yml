@@ -3098,7 +3098,7 @@
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/932
 - author: Nox38
   changes:
-  - message: All SEVAs now get 4 artifact slots, including the ones form Eco.
+  - message: All SEVAs now get 4 artifact slots, including the ones from Eco.
     type: Tweak
   id: 344
   time: '2026-05-27T18:06:54.877866+00:00'
