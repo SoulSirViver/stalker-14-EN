@@ -4,8 +4,8 @@ meta:
   engineVersion: 268.0.0
   forkId: ""
   forkVersion: ""
-  time: 06/14/2026 11:03:13
-  entityCount: 8289
+  time: 06/18/2026 19:02:06
+  entityCount: 8296
 maps:
 - 1
 grids:
@@ -29504,6 +29504,12 @@ entities:
       rot: 3.141592653589793 rad
       pos: -63.5,99.5
       parent: 1
+  - uid: 8290
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -5.5,-61.5
+      parent: 1
 - proto: FenceMetalCorner
   entities:
   - uid: 616
@@ -29633,10 +29639,10 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -58.5,90.5
       parent: 1
-  - uid: 8285
+  - uid: 6046
     components:
     - type: Transform
-      rot: -1.5707963267948966 rad
+      rot: 3.141592653589793 rad
       pos: -28.5,-73.5
       parent: 1
 - proto: FenceMetalEnd
@@ -38446,14 +38452,6 @@ entities:
       parent: 1
     - type: Fixtures
       fixtures: {}
-  - uid: 6946
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -7.5,-61.5
-      parent: 1
-    - type: Fixtures
-      fixtures: {}
   - uid: 6947
     components:
     - type: Transform
@@ -38524,6 +38522,15 @@ entities:
       fixtures: {}
     missingComponents:
     - ActivatableUIRequiresPower
+    - ApcPowerReceiver
+  - uid: 8291
+    components:
+    - type: Transform
+      pos: -5.5,-61.5
+      parent: 1
+    - type: Fixtures
+      fixtures: {}
+    missingComponents:
     - ApcPowerReceiver
 - proto: kamysh
   entities:
@@ -40217,15 +40224,23 @@ entities:
       parent: 1
 - proto: OldWoodChairStalker3
   entities:
+  - uid: 6141
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -0.5,-55.5
+      parent: 1
   - uid: 6142
     components:
     - type: Transform
-      pos: -3.5,-58.5
+      rot: 3.141592653589793 rad
+      pos: -2.5,-57.5
       parent: 1
   - uid: 6143
     components:
     - type: Transform
-      pos: -1.5,-58.5
+      rot: 1.5707963267948966 rad
+      pos: -4.5,-55.5
       parent: 1
 - proto: OldWoodTable2
   entities:
@@ -40329,6 +40344,24 @@ entities:
     components:
     - type: Transform
       pos: -60.5,-117.5
+      parent: 1
+  - uid: 8294
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -24.5,-76.5
+      parent: 1
+  - uid: 8295
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -24.5,-75.5
+      parent: 1
+  - uid: 8296
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -24.5,-74.5
       parent: 1
 - proto: OldWoodTable3
   entities:
@@ -45000,10 +45033,11 @@ entities:
     - type: Transform
       pos: -61.5,94.5
       parent: 1
-  - uid: 6046
+  - uid: 8285
     components:
     - type: Transform
-      pos: -2.5,-57.5
+      rot: 3.141592653589793 rad
+      pos: -2.5,-55.5
       parent: 1
 - proto: StalkerCargoTank
   entities:
@@ -51217,11 +51251,6 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -72.6245,88.567566
       parent: 1
-  - uid: 6141
-    components:
-    - type: Transform
-      pos: -2.5,-56.5
-      parent: 1
   - uid: 6672
     components:
     - type: Transform
@@ -51301,6 +51330,11 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -54.5,-111.5
+      parent: 1
+  - uid: 8292
+    components:
+    - type: Transform
+      pos: -2.4736052,-54.11518
       parent: 1
 - proto: STClockworkGrille
   entities:
@@ -54501,6 +54535,18 @@ entities:
     components:
     - type: Transform
       pos: -47.5,30.5
+      parent: 1
+- proto: STMatrassBed3
+  entities:
+  - uid: 6946
+    components:
+    - type: Transform
+      pos: -20.5,-50.5
+      parent: 1
+  - uid: 8293
+    components:
+    - type: Transform
+      pos: -3.5,-54.5
       parent: 1
 - proto: STMetalBarDoorFalloutMonolithClosed
   entities:
