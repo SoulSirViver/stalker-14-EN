@@ -3306,5 +3306,12 @@
   id: 370
   time: '2026-06-17T16:28:58.690719+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/982
+- author: SnekiChaos
+  changes:
+  - message: Minor Yantar Eco Bunker fixes
+    type: Add
+  id: 371
+  time: '2026-06-20T11:02:24.764839+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/987
 Name: Stalker
 Order: -1
