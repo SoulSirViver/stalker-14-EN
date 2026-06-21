@@ -33,7 +33,6 @@
     shape:
     - 0,0,2,2
   - type: Sprite
-    sprite: _Stalker_EN/Objects/Tools/Irradiationkit.rsi
     state: Irradiationkit1
   - type: Craftable
   - type: RepositoryItem
