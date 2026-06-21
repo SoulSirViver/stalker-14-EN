@@ -177,11 +177,11 @@
   - STWeaponRifleAbakanWinter
   steps:
     firstIngredient: CraftChemicalCleaningKit
-    secondIngredient: STWeaponRifleAbakanMono
+    secondIngredient: STWeaponRifleAbakanWinterMono
     time: 15
 
 - type: lightCraftingRecipe
-  id: ChemCleaningKitOC14
+  id: ChemCleaningKitOC14Winter
   results:
   - STWeaponRifleOC14Winter
   steps:

@@ -89,7 +89,7 @@
     time: 15
 
 - type: lightCraftingRecipe
-  id: ChemCleaningKitAbakanWinter
+  id: IrradiationkitAbakanWinterMono
   results:
   - STWeaponRifleAbakanWinterMono
   steps:
@@ -98,7 +98,7 @@
     time: 15
 
 - type: lightCraftingRecipe
-  id: ChemCleaningKitOC14
+  id: IrradiationkitOC14Mono
   results:
   - STWeaponRifleOC14WinterMono
   steps:
