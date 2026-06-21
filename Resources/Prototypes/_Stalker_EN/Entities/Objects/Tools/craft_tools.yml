@@ -21,7 +21,7 @@
 
 - type: entity
   parent: BaseItem
-  id: Irradiationkit
+  id: STIrradiationkit
   name: Irradiating kit
   description: Powdered radioactive material safely stored inside a canister that can be used to irradiate objects.
   suffix: Stalker, Craft
