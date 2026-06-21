@@ -87,3 +87,21 @@
     firstIngredient: STIrradiationkit
     secondIngredient: ClothingHeadHelmetBerill5MMonolithClean
     time: 15
+
+- type: lightCraftingRecipe
+  id: ChemCleaningKitAbakanWinter
+  results:
+  - STWeaponRifleAbakanWinterMono
+  steps:
+    firstIngredient: CraftChemicalCleaningKit
+    secondIngredient: STWeaponRifleAbakanWinter
+    time: 15
+
+- type: lightCraftingRecipe
+  id: ChemCleaningKitOC14
+  results:
+  - STWeaponRifleOC14WinterMono
+  steps:
+    firstIngredient: CraftChemicalCleaningKit
+    secondIngredient: STWeaponRifleOC14Winter
+    time: 15
