@@ -3320,5 +3320,12 @@
   id: 372
   time: '2026-06-22T00:55:28.706297+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/988
+- author: TheCookieChicken
+  changes:
+  - message: Fixed the copyright in the meta.json
+    type: Fix
+  id: 373
+  time: '2026-06-22T00:58:48.640472+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/990
 Name: Stalker
 Order: -1
