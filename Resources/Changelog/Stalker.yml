@@ -3336,5 +3336,12 @@
   id: 374
   time: '2026-06-22T16:01:27.913913+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/989
+- author: Nox38
+  changes:
+  - message: Renamed and removed armor from kevlar raincoat variants.
+    type: Tweak
+  id: 375
+  time: '2026-06-23T17:27:51.296256+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/979
 Name: Stalker
 Order: -1
