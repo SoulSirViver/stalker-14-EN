@@ -2,7 +2,7 @@
 - type: shopPreset
   id: SeraphimDollarFaction
   itemsForSale:
-    ZoneArtifactFireball: 0
+    ZoneArtifactFireball: 1
 
 
   categories:
