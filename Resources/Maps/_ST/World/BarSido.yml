@@ -2276,12 +2276,11 @@ entities:
     missingComponents:
     - Item
     - Pullable
-- proto: LocaleTeleportUsage
+- proto: LocalTeleportNeutralStairs
   entities:
   - uid: 78
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
       pos: -7.5,95.5
       parent: 1
   - uid: 1444
@@ -2289,10 +2288,6 @@ entities:
     - type: Transform
       pos: -7.5,116.5
       parent: 1
-    - type: LinkByString
-      linkString: NeutralB1
-    - type: LinkedEntity
-      linkedEntities: []
 - proto: LockerBig
   entities:
   - uid: 368
