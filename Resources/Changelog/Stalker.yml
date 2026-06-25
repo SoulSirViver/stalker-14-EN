@@ -3364,5 +3364,12 @@
   id: 378
   time: '2026-06-25T07:57:41.637520+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/995
+- author: crocodilecarousel
+  changes:
+  - message: Mask despawn time increased to 3 hours
+    type: Tweak
+  id: 379
+  time: '2026-06-25T14:45:03.013175+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1000
 Name: Stalker
 Order: -1
