@@ -29,3 +29,23 @@
       - 6,3,6,4
       - 8,3,8,4
       - 10,3,10,4
+
+- type: entity
+  parent: STClothingOuterArmorBase
+  id: STClothingOuterArmorNeutralBadger
+  name: Badger Armored Coveralls
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/outerClothing/neutral_badger.rsi
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Clothing/outerClothing/neutral_badger.rsi
+  - type: Storage
+    maxItemSize: Large
+    grid:
+      - 0,3,0,4
+      - 2,3,2,4
+      - 4,3,4,4
+      - 6,0,8,1
+      - 6,3,6,4
+      - 8,3,8,4
+      - 10,3,10,4
