@@ -211,3 +211,80 @@
   - type: HideLayerClothing
     slots:
     - Hair
+
+- type: entity
+  parent: STClothingCapeBase
+  id: STClothingCapeTacticalRigGreen
+  suffix: ST
+  name: Tactical Rig Green
+  description: Very tacticool rig for your combat utilities, mags, whatever else fit in there.
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_green.rsi 
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_green.rsi 
+  - type: STWeight
+    self: 4
+  - type: Storage
+    maxItemSize: Normal
+    blacklist:
+      tags:
+      - STArtifact
+    grid:
+      - 0,4,0,5
+      - 0,0,0,2
+      - 2,4,2,5
+      - 2,1,3,2
+      - 4,4,4,5
+      - 5,1,6,2
+      - 6,4,6,5
+      - 8,4,8,5
+      - 8,0,8,2
+
+- type: entity
+  parent: STClothingCapeTacticalRigGreen
+  id: STClothingCapeTacticalRigBlack
+  suffix: ST
+  name: Tactical Rig Black
+  description: Very tacticool rig for your combat utilities, mags, whatever else fit in there.
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_black.rsi 
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_black.rsi
+
+- type: entity
+  parent: STClothingCapeTacticalRigGreen
+  id: STClothingCapeTacticalRigBrown
+  suffix: ST
+  name: Tactical Rig Brown
+  description: Very tacticool rig for your combat utilities, mags, whatever else fit in there.
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_brown.rsi 
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_brown.rsi
+
+- type: entity
+  parent: STClothingCapeTacticalRigGreen
+  id: STClothingCapeTacticalRigBlue
+  suffix: ST
+  name: Tactical Rig Blue
+  description: Very tacticool rig for your combat utilities, mags, whatever else fit in there.
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_blue.rsi 
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_blue.rsi
+
+- type: entity
+  parent: STClothingCapeTacticalRigGreen
+  id: STClothingCapeTacticalRigRed
+  suffix: ST
+  name: Tactical Rig red
+  description: Very tacticool rig for your combat utilities, mags, whatever else fit in there.
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_red.rsi 
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Clothing/cloak/tacticalrig_red.rsi 
