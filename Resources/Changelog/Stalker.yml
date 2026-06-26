@@ -3417,5 +3417,12 @@
   id: 385
   time: '2026-06-26T16:11:07.441990+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1001
+- author: Aliwenko
+  changes:
+  - message: Forester and faction USD shops
+    type: Add
+  id: 386
+  time: '2026-06-26T19:38:02.662746+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1008
 Name: Stalker
 Order: -1
