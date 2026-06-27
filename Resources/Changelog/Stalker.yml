@@ -3424,5 +3424,22 @@
   id: 386
   time: '2026-06-26T19:38:02.662746+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1008
+- author: SnekiChaos
+  changes:
+  - message: Fixed PVP Flags for Eco Compound
+    type: Tweak
+  - message: Fixed some unpowered objects around the Compound
+    type: Tweak
+  - message: Labeled some doors for immersion
+    type: Tweak
+  - message: Added divider to Eco counter
+    type: Tweak
+  - message: Added few minor details to spruce up the Eco Compound
+    type: Tweak
+  - message: Switched old unused Stash for one from Yantar Bunker.
+    type: Tweak
+  id: 387
+  time: '2026-06-27T11:51:19.125717+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1011
 Name: Stalker
 Order: -1
