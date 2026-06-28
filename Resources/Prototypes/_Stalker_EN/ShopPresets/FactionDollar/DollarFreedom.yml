@@ -26,14 +26,14 @@
   - name: shop-category-armor
     priority: 4
     items:
-      ClothingHeadHelmetUlach: 90
-      STClothingOuterArmorIOTVFreedom: 100
+      ClothingHeadHelmetUlach: 170
+      STClothingOuterArmorIOTVFreedom: 200
       STClothingOuterArmorVolchankaFreedom: 400
       STClothingOuterArmorVeryHeavyFreedom: 450
   - name: shop-category-storage-and-containers
     priority: 5
     items:
-      ClothingBeltWebbingDoubleFreedomVeterSmall: 10
+      ClothingBeltWebbingDoubleFreedomVeterSmall: 25
       ClothingBackpackDuffelBlackTacticStalker: 90
       ClothingBackpackDuffelOliveTacticStalker: 90
   - name: shop-category-research-equipment

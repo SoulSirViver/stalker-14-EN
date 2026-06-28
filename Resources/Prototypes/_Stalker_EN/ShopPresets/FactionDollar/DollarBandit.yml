@@ -24,8 +24,8 @@
   - name: shop-category-armor
     priority: 4
     items:
-      ClothingHeadHelmet1SHBandit: 100
-      STClothingOuterArmorLightPlateVestBaseHeavyBandit: 475
+      ClothingHeadHelmet1SHBandit: 185
+      STClothingOuterArmorLightPlateVestBaseHeavyBandit: 425
   - name: shop-category-storage-and-containers
     priority: 5
     items:

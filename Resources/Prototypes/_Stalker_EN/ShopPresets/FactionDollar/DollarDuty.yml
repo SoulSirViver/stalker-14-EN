@@ -26,8 +26,8 @@
   - name: shop-category-armor
     priority: 4
     items:
-      ClothingHeadHelmetUlach: 90
-      ClothingOuterArmorPSZ9D: 450
+      ClothingHeadHelmetUlach: 170
+      ClothingOuterArmorPSZ9D: 400
   - name: shop-category-storage-and-containers
     priority: 5
     items:

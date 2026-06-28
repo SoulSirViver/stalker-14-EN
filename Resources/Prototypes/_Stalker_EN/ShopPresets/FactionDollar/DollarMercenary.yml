@@ -24,9 +24,9 @@
   - name: shop-category-armor
     priority: 4
     items:
-      ClothingHeadHelmetBulatMercenary: 75
-      ClothingHeadHelmetUlachEasy: 75
-      STClothingOuterArmorIOTVMerc: 100
+      ClothingHeadHelmetBulatMercenary: 120
+      ClothingHeadHelmetUlachEasy: 170
+      STClothingOuterArmorIOTVMerc: 240
   - name: shop-category-storage-and-containers
     priority: 5
     items:
