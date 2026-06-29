@@ -375,8 +375,8 @@
     items:
       # Helmets
       # OuterClothing
-      STClothingOuterArmorIOTVBlack: 120
-      STClothingOuterIOTVGEN4: 140
+      STClothingOuterArmorIOTVBlack: 165
+      STClothingOuterIOTVGEN4: 240
       ClothingOuterArmorHazmatRf: 225
   - name: shop-category-storage-and-containers
     priority: 7
@@ -559,10 +559,10 @@
     items:
       # Helmets
       ClothingHeadHelmetBerill5MMilitary: 30
-      ClothingHeadHelmetUlach: 75
+      ClothingHeadHelmetUlach: 155
       # OuterClothing
-      STClothingOuterArmorIOTVBlack: 100
-      STClothingOuterIOTVGEN4: 120
+      STClothingOuterArmorIOTVBlack: 140
+      STClothingOuterIOTVGEN4: 215
       ClothingOuterArmorHazmatRf: 200
       ClothingOuterArmorStalkerCombat: 350
       STClothingOuterArmorVeryHeavy: 450

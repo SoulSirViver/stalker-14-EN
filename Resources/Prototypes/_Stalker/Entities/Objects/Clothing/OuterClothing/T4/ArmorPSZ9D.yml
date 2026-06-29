@@ -20,10 +20,10 @@
         Piercing: 8
         Radiation: 8
       coefficients:
-        Blunt: 0.9
+        Blunt: 0.65 # EN, 0.9 -> 0.65
         Slash: 0.5
-        Piercing: 0.8
-        Compression: 0.6
+        Piercing: 0.75 # EN, 0.8 -> 0.75
+        Compression: 0.4 # EN, 0.6 -> 0.4
   - type: PersonalDamage # EN
     staminaDamage: -4
     interval: 1
