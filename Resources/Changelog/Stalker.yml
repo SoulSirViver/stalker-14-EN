@@ -3457,5 +3457,12 @@
   id: 389
   time: '2026-06-29T00:31:24.360761+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1012
+- author: Llfiend
+  changes:
+  - message: T4 armor changes
+    type: Tweak
+  id: 390
+  time: '2026-06-29T03:53:04.675806+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1015
 Name: Stalker
 Order: -1
